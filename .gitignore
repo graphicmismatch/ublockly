@@ -4,6 +4,7 @@
 **.csproj
 **.idea/
 **.sln
+**.meta
 
 **/PersistentPath/
 **/PersistentPath.meta
