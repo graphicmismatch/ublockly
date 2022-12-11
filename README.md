@@ -2,7 +2,7 @@
 
 ![](Doc/glimpse.png)
 
-
+THE PURPOSE OF THIS FORK IS TO FIX ANY UI ERRORS AND TO UPDATE THE PROJECT TO THE LATEST UNITY VERSIONS.
 
 This library reimplements [Google Blockly](https://developers.google.com/blockly) in Unity. It has:
 
